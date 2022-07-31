@@ -69,3 +69,7 @@ git push
 And include a link to your repository `https://github.com/<your-user-name>/jOOQ-mcve` in your issue report. Done!
 
 Thanks again for taking the time to do this. Looking forward to your MCVE
+
+
+## Sakila DB
+![Sakila database ERD](https://www.jooq.org/img/sakila.png)

@@ -14,8 +14,8 @@
     </properties>
 
     <modules>
-        <module>jOOQ-mcve-java</module>
+<!--        <module>jOOQ-mcve-java</module>-->
         <module>jOOQ-mcve-kotlin</module>
-        <module>jOOQ-mcve-scala</module>
+<!--        <module>jOOQ-mcve-scala</module>-->
     </modules>
 </project>
